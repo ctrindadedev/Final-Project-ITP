@@ -16,7 +16,7 @@ Este projeto consiste em um programa que gera um código de barras no formato EA
 2. Compile o programa usando o comando:
    
    ```
-   gcc -o gerador_codigo_barras gerador_codigo_barras.c
+   gcc -o gerador_codigo_barras gerador_pbm.c
    ```
 
 ### Execução
